@@ -1,0 +1,13 @@
+body {
+  font-family: "Quicksand", sans-serif;
+}
+
+#page-logo a {
+  font-family: "Oleo Script", sans-serif;
+  padding: 10px;
+  font-size: 50px;
+  color: aquamarine;
+  text-decoration: none;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 5px rgb(0, 0, 0);
+}
