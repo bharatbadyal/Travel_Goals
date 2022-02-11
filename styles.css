@@ -55,6 +55,11 @@
   margin-bottom: 40px;
 }
 
+#highlights {
+  padding: 24px;
+  background: linear-gradient(45deg, rgb(227, 255, 253), rgb(202, 243, 240));
+}
+
 .destination {
   margin: 0 20px;
   text-transform: uppercase;
