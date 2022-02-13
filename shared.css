@@ -26,7 +26,7 @@ header a {
   border-radius: 20px;
 }
 
-header a:hover {
+header nav a:hover {
   color: rgb(77, 77, 77);
   background-color: rgb(255, 251, 0);
 }
