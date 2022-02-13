@@ -1,23 +1,23 @@
 body {
   background: linear-gradient(30deg, rgb(77, 77, 77), rgb(58, 58, 58));
-  color: rgb(68,68,68);
+  color: rgb(68, 68, 68);
 }
 
-#page-logo{
-  color: rgb(183,230,235)
+#page-logo {
+  color: rgb(183, 230, 235);
 }
 
 header {
   position: static;
 }
 
-header a{
-  color: rgb(183,230,235)
+header a {
+  color: rgb(183, 230, 235);
 }
 
-header nav a:hover{
-  background-color: rgb(183,230,235);
-  color: rgb(59,59,59);
+header nav a:hover {
+  background-color: rgb(183, 230, 235);
+  color: rgb(59, 59, 59);
 }
 
 main ul {
@@ -25,10 +25,10 @@ main ul {
   margin: 0 auto 48px auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 20px 20px;   
+  gap: 20px 20px;
 }
 
-li:nth-of-type(3){
+li:nth-of-type(3) {
   grid-column: 1 / span 2;
 }
 
@@ -39,7 +39,6 @@ main li {
   border-radius: 8px;
   overflow: hidden;
 }
-
 
 main li img {
   width: 300px;
@@ -54,7 +53,7 @@ main li img {
   justify-content: space-between;
 }
 
-.item-content h2{
+.item-content h2 {
   margin: 0;
 }
 
@@ -64,11 +63,11 @@ main li img {
 
 .actions a {
   text-decoration: none;
-  padding:; 6px;
-  color: rgb(22,211,228);
+  padding: 6px;
+  color: rgb(22, 211, 228);
   border-radius: 5px;
 }
 
-.actions a:hover{
-  background-color: rgb(235,253,255);
+.actions a:hover {
+  background-color: rgb(235, 253, 255);
 }
